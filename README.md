@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Cybersecurity](https://img.shields.io/badge/Domain-Cybersecurity-orange)
+![Forage](https://img.shields.io/badge/Platform-Forage-brightgreen)
+![Deloitte](https://img.shields.io/badge/Organization-Deloitte-blue)
+
 # 🛡️ Deloitte Cybersecurity Job Simulation (Forage)
 
 **Author:** Rohit (Hunter)  
