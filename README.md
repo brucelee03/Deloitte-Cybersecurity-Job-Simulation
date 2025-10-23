@@ -73,17 +73,16 @@ The script performs the following analysis steps:
 
 
 📊 Top 10 Most Active Users:
-  mdB7yD2dp1BFZPontHBQ1Z         → 121 API calls
-  obbi5BSPBt2K66ZGP8cyTJ         → 19 API calls
-  obbi5BSPBt2K66ZGP8cyTJ         → 19 API calls
-  qNFGnHD22ck85MbYPkHA8U         → 17 API calls
-  keRUfaP4iwD2ZdrnkeuSBV         → 16 API calls
-  dUU1wKpH4atg3s2Qt2fHiP         → 15 API calls
-  wCfsVNvQVrEAngWHKDNEHH         → 14 API calls
-  wGaAGjLRKsGjvq7QHyDbQc         → 14 API calls
-  mTDKsgxXBn64f2yFgPUDMg         → 12 API calls
-  4fVRoPdmUWE6oGzGucRyGi         → 12 API calls
-  5CJfYcJAMKAkhEQZLPAuTy         → 11 API calls
+1. mdB7yD2dp1BFZPontHBQ1Z          → 121 API calls
+2. obbi5BSPBt2K66ZGP8cyTJ          → 19 API calls
+3. obbi5BSPBt2K66ZGP8cyTJ          → 19 API calls
+4. qNFGnHD22ck85MbYPkHA8U          → 17 API calls
+5. keRUfaP4iwD2ZdrnkeuSBV          → 16 API calls
+6. dUU1wKpH4atg3s2Qt2fHiP          → 15 API calls
+7. wCfsVNvQVrEAngWHKDNEHH          → 14 API calls
+8. wGaAGjLRKsGjvq7QHyDbQc          → 14 API calls
+9. mTDKsgxXBn64f2yFgPUDMg          → 12 API calls
+10. 4fVRoPdmUWE6oGzGucRyGi         → 12 API call
 
 ---
 
