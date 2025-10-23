@@ -5,7 +5,7 @@
 
 # 🛡️ Deloitte Cybersecurity Job Simulation (Forage)
 
-**Author:** Rohit (Hunter)  
+**Author:** Rohit  
 **Platform:** [Forage](https://www.theforage.com/virtual-experience/programs/deloitte-cyber)  
 **Role Simulated:** Cybersecurity Analyst at Deloitte  
 
